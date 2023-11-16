@@ -1,6 +1,7 @@
 import pytest
 from src.calculator import calculator_function
 
+# 8 тестов на основные функции калькулятора
 
 def test_addition():
     result = calculator_function('+', 3, 4)

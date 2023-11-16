@@ -1,6 +1,7 @@
 import math
 
 
+# simply calculator
 def calculator_function(operation, a, b):
     if operation == '+':
         return a + b
